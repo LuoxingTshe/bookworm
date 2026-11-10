@@ -1,0 +1,11 @@
+{
+  "protocol_version": "1",
+  "prompt": "Three-dimensional visibility analysis using point clouds in landscape architecture",
+  "mode": "agent",
+  "source": "auto",
+  "tier": "quick",
+  "years": [2018, 2026],
+  "max_steps": 12,
+  "max_tokens": 100000,
+  "obsidian": false
+}

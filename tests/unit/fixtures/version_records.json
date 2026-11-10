@@ -1,0 +1,324 @@
+{
+  "sources": [
+    "Synthetic publication/preprint pairs (W910001–W910004); not real bibliographic records.",
+    "artifacts/runs/landscape-planning-history/corpus.json (historical duplicate and book-review counterexamples)"
+  ],
+  "papers": [
+    {
+      "id": "W910001",
+      "doi": "10.99999/synthetic-alpha",
+      "title": "A multi-level quantitative analysis method on the scale shape and quantity of synthetic structures in controlled laboratory conditions using Example Site as an example",
+      "authors": [
+        "Ada Example",
+        "Ben Example",
+        "Cora Example",
+        "Drew Example",
+        "Eli Example"
+      ],
+      "year": 2024,
+      "venue": "Synthetic Test Journal",
+      "is_seed": false,
+      "origin": "openalex_search",
+      "relevance": {
+        "score": 7,
+        "reason": "Synthetic relevance for version-filter regression",
+        "flag": null
+      },
+      "referenced_works": [
+        "W920001",
+        "W920002",
+        "W920003",
+        "W920004",
+        "W920005",
+        "W920006",
+        "W920007",
+        "W920008"
+      ]
+    },
+    {
+      "id": "W910002",
+      "doi": "10.21203/rs.synthetic-alpha/v1",
+      "title": "A quantitative analysis method on the scale shape and quantity of synthetic structures in controlled laboratory conditions using Example Site as an example",
+      "authors": [
+        "Ada Example",
+        "Ben Example",
+        "Cora Example",
+        "Drew Example",
+        "Eli Example"
+      ],
+      "year": 2023,
+      "venue": "Research Square",
+      "is_seed": false,
+      "origin": "openalex_search",
+      "relevance": {
+        "score": 7,
+        "reason": "Synthetic relevance for version-filter regression",
+        "flag": null
+      },
+      "referenced_works": [
+        "W920001",
+        "W920002",
+        "W920003",
+        "W920004",
+        "W920005",
+        "W920006",
+        "W920007",
+        "W920008"
+      ]
+    },
+    {
+      "id": "W910003",
+      "doi": "10.99999/synthetic-beta",
+      "title": "A cloud model-based quantitative assessment system for surface degradation of synthetic structures in controlled laboratory experiments",
+      "authors": [
+        "Faye Example",
+        "Gus Example",
+        "Hal Example",
+        "Ivy Example"
+      ],
+      "year": 2025,
+      "venue": "Synthetic Test Journal",
+      "is_seed": false,
+      "origin": "openalex_search",
+      "relevance": {
+        "score": 7,
+        "reason": "Synthetic relevance for version-filter regression",
+        "flag": null
+      },
+      "referenced_works": [
+        "W920001",
+        "W920002",
+        "W920003",
+        "W920004",
+        "W920005",
+        "W920006",
+        "W920007",
+        "W920008"
+      ]
+    },
+    {
+      "id": "W910004",
+      "doi": "10.21203/rs.synthetic-beta/v1",
+      "title": "A cloud model-based quantitative assessment system for surface degradation of synthetic structures in controlled laboratory experiments: Example Site experimental specimens",
+      "authors": [
+        "Faye Example",
+        "Gus Example",
+        "Hal Example",
+        "I. Example"
+      ],
+      "year": 2025,
+      "venue": "Research Square",
+      "is_seed": false,
+      "origin": "openalex_search",
+      "relevance": {
+        "score": 6,
+        "reason": "Synthetic relevance for version-filter regression",
+        "flag": null
+      },
+      "referenced_works": [
+        "W920001",
+        "W920002",
+        "W920003",
+        "W920004",
+        "W920005",
+        "W920006",
+        "W920007",
+        "W920008"
+      ]
+    },
+    {
+      "id": "W2887940057",
+      "doi": "10.3368/lj.36.2.37",
+      "title": "Environmental Design, Systems Thinking, and Human Agency: McHarg’s Ecological Method and Steinitz and Rogers’s Interdisciplinary Education Experiment",
+      "authors": [
+        "Moa Karolina Carlsson"
+      ],
+      "year": 2017,
+      "venue": "Landscape Journal",
+      "is_seed": false,
+      "origin": "forward",
+      "relevance": {
+        "score": 9.0,
+        "reason": "直接比较McHarg生态方法与Steinitz系统模型，紧扣核心意图。",
+        "flag": null
+      },
+      "referenced_works": [
+        "W576227389",
+        "W578140673",
+        "W607245331",
+        "W611524341",
+        "W629636013",
+        "W631191870",
+        "W634342966",
+        "W1485812865",
+        "W1498112155",
+        "W1510345736",
+        "W1534997899",
+        "W1563830325",
+        "W1596010014",
+        "W1628763334",
+        "W1707715928",
+        "W1999471592",
+        "W2008001944",
+        "W2018535417",
+        "W2024430043",
+        "W2031556873",
+        "W2036374024",
+        "W2046823563",
+        "W2062060740",
+        "W2064540122",
+        "W2068745438",
+        "W2070007162",
+        "W2093705991",
+        "W2110687376",
+        "W2122776531",
+        "W2160240057",
+        "W2170247057",
+        "W2231335362",
+        "W2232694021",
+        "W2327417713",
+        "W2333993525",
+        "W2337474658",
+        "W2591902854",
+        "W2747016954",
+        "W2800088136",
+        "W2895055485",
+        "W2905924414"
+      ]
+    },
+    {
+      "id": "W2113556984",
+      "doi": "10.1080/18626033.2012.749602",
+      "title": "A Framework for Geodesign: Changing Geography by Design",
+      "authors": [
+        "Karsten Jorgensen"
+      ],
+      "year": 2012,
+      "venue": "Journal of Landscape Architecture",
+      "is_seed": false,
+      "origin": "backward",
+      "relevance": {
+        "score": 8.0,
+        "reason": "Steinitz本人阐述地理设计框架，是其六步框架的核心著作。",
+        "flag": null
+      },
+      "referenced_works": []
+    },
+    {
+      "id": "WOS:000445498700005",
+      "doi": null,
+      "title": "Environmental Design, Systems Thinking, and Human Agency: McHarg's Ecological Method and Steinitz and Rogers's Interdisciplinary Education Experiment",
+      "authors": [
+        "Carlsson, Moa Karolina"
+      ],
+      "year": 2017,
+      "venue": "LANDSCAPE JOURNAL",
+      "is_seed": false,
+      "origin": "wos_search",
+      "relevance": {
+        "score": 8.0,
+        "reason": "无摘要，标题直接关联McHarg生态方法与Steinitz跨学科教育实验，高度相关。",
+        "flag": "no_abstract"
+      },
+      "referenced_works": []
+    },
+    {
+      "id": "W4237302105",
+      "doi": "10.1080/01944367708977903",
+      "title": "Methods for Generating Land Suitability Maps: A Comparative Evaluation",
+      "authors": [
+        "Lewis D. Hopkins"
+      ],
+      "year": 1977,
+      "venue": "Journal of the American Institute of Planners",
+      "is_seed": false,
+      "origin": "backward",
+      "relevance": {
+        "score": 7.0,
+        "reason": "土地适宜性图方法比较评估，直接关联McHarg图层叠加技术。",
+        "flag": null
+      },
+      "referenced_works": [
+        "W604150767",
+        "W1519896462",
+        "W1550333411",
+        "W1592831460",
+        "W2011860710",
+        "W2015154977",
+        "W2022051584",
+        "W2038206905",
+        "W2038287188",
+        "W2055130037",
+        "W2067486742",
+        "W2166282444",
+        "W4237797831",
+        "W4376541613"
+      ]
+    },
+    {
+      "id": "W2160240057",
+      "doi": "10.5822/978-1-61091-491-8_30",
+      "title": "Methods for Generating Land suitability Maps: A Comparative Evaluation",
+      "authors": [
+        "Lewis D. Hopkins"
+      ],
+      "year": 2014,
+      "venue": "Island Press/Center for Resource Economics eBooks",
+      "is_seed": false,
+      "origin": "backward",
+      "relevance": {
+        "score": 7.0,
+        "reason": "土地适宜性图方法比较评估（重印），直接关联McHarg图层叠加技术。",
+        "flag": null
+      },
+      "referenced_works": [
+        "W604150767",
+        "W639594370",
+        "W1515453262",
+        "W1519896462",
+        "W1550333411",
+        "W1592831460",
+        "W1595891257",
+        "W1707715928",
+        "W1980849842",
+        "W1993468679",
+        "W2011860710",
+        "W2015154977",
+        "W2022051584",
+        "W2038206905",
+        "W2038287188",
+        "W2051967377",
+        "W2055130037",
+        "W2067486742",
+        "W2070007162",
+        "W2091579301",
+        "W2166282444",
+        "W2567068563",
+        "W4237797831",
+        "W4240688852",
+        "W4285719527",
+        "W4313146998",
+        "W6667391778",
+        "W6668265645"
+      ]
+    },
+    {
+      "id": "W1563830325",
+      "doi": null,
+      "title": "A Framework for Geodesign: Changing Geography by Design",
+      "authors": [
+        "Carl Steinitz"
+      ],
+      "year": 2012,
+      "venue": "Medical Entomology and Zoology",
+      "is_seed": false,
+      "origin": "backward",
+      "relevance": {
+        "score": 6.0,
+        "reason": "Geodesign框架，与Steinitz框架及GIS规划方法演进直接相关。",
+        "flag": "no_abstract"
+      },
+      "referenced_works": []
+    }
+  ]
+}

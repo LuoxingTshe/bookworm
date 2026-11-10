@@ -1,0 +1,3 @@
+include AGENTS.md SKILL.md CHANGELOG.md .env.example
+recursive-include examples *.py *.json
+recursive-include tests *.py *.cjs *.json

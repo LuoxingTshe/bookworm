@@ -1,0 +1,13 @@
+{
+  "id": "https://openalex.org/W2919115771",
+  "doi": "https://doi.org/10.1038/nature14539",
+  "title": "Deep learning",
+  "publication_year": 2015,
+  "authorships": [{"author": {"display_name": "Yann LeCun"}}, {"author": {"display_name": "Yoshua Bengio"}}],
+  "primary_location": {"source": {"display_name": "Nature"}},
+  "abstract_inverted_index": {"Deep": [0], "learning": [1], "allows": [2], "computational": [3], "models": [4]},
+  "cited_by_count": 85369,
+  "referenced_works": ["https://openalex.org/W1", "https://openalex.org/W2"],
+  "keywords": [{"display_name": "Deep learning"}],
+  "type": "article"
+}

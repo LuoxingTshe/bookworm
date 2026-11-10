@@ -1,0 +1,12 @@
+{
+  "uid": "WOS:000600000000001",
+  "title": "Graph neural networks for drug discovery: a review",
+  "types": ["Review"],
+  "sourceTypes": ["Journal"],
+  "source": {"sourceTitle": "BRIEFINGS IN BIOINFORMATICS", "publishYear": 2021, "volume": "22", "issue": "6"},
+  "names": {"authors": [{"displayName": "Smith, John", "wosStandard": "Smith, J"}, {"displayName": "Li, Wei", "wosStandard": "Li, W"}]},
+  "links": {"record": "https://www.webofscience.com/wos/woscc/full-record/WOS:000600000000001"},
+  "citations": [{"db": "WOS", "count": 321}],
+  "identifiers": {"doi": "10.1093/bib/bbab159", "issn": "1467-5463"},
+  "keywords": {"authorKeywords": ["graph neural network", "drug discovery"]}
+}
